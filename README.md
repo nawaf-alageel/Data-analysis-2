@@ -9,6 +9,11 @@ This project demonstrates the application of three core data science techniques:
 
 ## Repository Structure
 <pre>
+|-- Naive_Bayes_Classifier/
+|   |-- naive_bayes_classifier.ipynb
+|   |-- naive_bayes_report.pdf
+|   |-- pima_indians_diabetes.csv
+ 
 |-- Market_Basket_Analysis/
 |   |-- market_basket_analysis.ipynb
 |   |-- market_basket_report.pdf
@@ -21,11 +26,6 @@ This project demonstrates the application of three core data science techniques:
 |   |-- olist_products_dataset.csv
 |   |-- olist_sellers_dataset.csv
 |   |-- product_category_name_translation.csv
-|
-|-- Naive_Bayes_Classifier/
-|   |-- naive_bayes_classifier.ipynb
-|   |-- naive_bayes_report.pdf
-|   |-- pima_indians_diabetes.csv
 |
 |-- Text_Analysis/
 |   |-- submit.csv
