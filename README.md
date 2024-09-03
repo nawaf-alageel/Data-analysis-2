@@ -8,7 +8,7 @@
 This project demonstrates the application of three core data science techniques: Naive Bayes for classification, Market Basket Analysis for association rule learning, and Text Analysis for text classification. Each technique is applied to a specific dataset, and the results, including code and reports, are hosted in this GitHub repository.
 
 ## Repository Structure
-<span>bash</span><div class="flex items-center"><span class="" data-state="closed">
+<pre>
 |-- Market_Basket_Analysis/
 |   |-- market_basket_analysis.ipynb
 |   |-- market_basket_report.pdf
@@ -38,8 +38,7 @@ This project demonstrates the application of three core data science techniques:
 |-- LICENSE
 |-- README.md
 |-- requirements.txt
-
-</code></div></div></pre>
+</pre>
 
 ### 1. Naive Bayes Classifier
 
