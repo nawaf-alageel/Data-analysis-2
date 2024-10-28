@@ -43,7 +43,7 @@ This project demonstrates the application of three core data science techniques:
 ### 1. Naive Bayes Classifier
 
 * **Objective:** Build a Naive Bayes classifier to predict diabetes using the Pima Indians Diabetes Dataset.
-* **Dataset:** [Pima Indians Diabetes Dataset]()
+* **Dataset:** [Pima Indians Diabetes Dataset](https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database)
 * **Deliverables:**
   * `naive_bayes_classifier.ipynb`: Jupyter Notebook implementing the Naive Bayes classifier.
   * `naive_bayes_report.pdf`: A report on data processing, model choice, performance evaluation, and insights.
